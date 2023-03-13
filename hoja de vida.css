@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+
+#Información{
+    background-color: #6C989E;
+    width: auto;
+    height: auto;
+    border: 4px;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 5rem;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+    
+}
+.InformacionPersonal{
+    background-color: #E0FBFF;
+    margin: 3vh;
+    border: 6px;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    font-style: normal;
+    color: black;
+    border-radius: 5rem;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+    
+}
+.foto{
+    background-color: #E0FBFF;
+    margin: 5%;
+    border: 10px;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    width: auto;
+    height: auto;
+    border-radius: 5rem;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+    
+}
+
+
+body{
+    background: #E0FBFF;
+    font-family: "Varela Round", sans-serif;
+    
+}
+div{
+    text-align: center;
+}
+img{
+    border-radius: 5%;
+    padding-top: 1%;
+
+}
+
+.FormacionAcademica{
+    background-color: #E0FBFF;
+    margin: 3vh;
+    border: 6px;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    font-style: normal;
+    color: black;
+    border-radius: 5rem;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+    padding: 1rem;
+}
+li{
+    
+    font-weight: bold;
+}
+.Hobbies{
+    background-color: #E0FBFF;
+    margin: 3vh;
+    border: 6px;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    font-style: normal;
+    color: black;
+    border-radius: 5rem;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+    padding: 1rem;
+}
